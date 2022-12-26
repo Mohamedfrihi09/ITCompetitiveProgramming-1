@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="problem10.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="9"/>
+        <CursorPos X="56" Y="27"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="10">
+      <Position>
+        <Filename Value="problem10.lpr"/>
+        <Caret Line="11" Column="53"/>
+      </Position>
+      <Position>
+        <Filename Value="problem10.lpr"/>
+        <Caret Line="15" Column="21"/>
+      </Position>
+      <Position>
+        <Filename Value="problem10.lpr"/>
+        <Caret Line="13" Column="16"/>
+      </Position>
+      <Position>
+        <Filename Value="problem10.lpr"/>
+        <Caret Line="31" Column="6" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="problem10.lpr"/>
+        <Caret Line="18" Column="10" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="problem10.lpr"/>
+        <Caret Line="27" Column="10" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="problem10.lpr"/>
+        <Caret Line="18" Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="problem10.lpr"/>
+        <Caret Line="3" Column="14" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="problem10.lpr"/>
+        <Caret Line="26" Column="6" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="problem10.lpr"/>
+        <Caret Line="20" Column="8" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="problem10.lpr"/>
+        <Caret Line="27" Column="33" TopLine="7"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
